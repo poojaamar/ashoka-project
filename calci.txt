@@ -1,2 +1,9 @@
-"wellcome"
+read -p "enter number1" num2
+read -p "enter number2" num2
+sum= num1 =num2
+
+
+
+
+
 
